@@ -7,4 +7,3 @@ pyngrok
 scikit_learn
 seaborn
 tensorflow
-streamlit
